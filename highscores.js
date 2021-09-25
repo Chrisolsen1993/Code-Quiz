@@ -3,7 +3,8 @@ var clear = document.querySelector("#clear");
 var goBack = document.querySelector("#goBack");
  clear.addEventListener("click", function(){
      localStorage.clear();
-     location.reload();
+     location.reload;
+     
  });
 
  var totalScore = localStorage.getItem("totalScore");
@@ -23,6 +24,6 @@ console.log(totalScore)
 }
 
 console.log(highScore)
-goBack.addEventListener("click", function () {
-    window.location.replace("./index.html");
-});
+// goBack.addEventListener("click", function () {
+//     window.location.replace("./index.html");
+// });

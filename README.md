@@ -9,9 +9,9 @@
 ![](Pic-code-quiz.png)
 ## Link
 * URL of the deployed application.
-
+https://chrisolsen1993.github.io/Code-Quiz/
 
 *  URL of  GitHub repository
-
+https://github.com/Chrisolsen1993/Code-Quiz
 # Collaborator
 David dyer
